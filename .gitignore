@@ -1,5 +1,7 @@
 # Dependencies
 node_modules/
+.codex/
+drafts/
 
 # Hexo generated files
 public/
