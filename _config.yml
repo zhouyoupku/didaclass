@@ -4,9 +4,9 @@
 
 # Site
 title: DidaClass
-subtitle: ''
-description: ''
-keywords:
+subtitle: 每天进步一点点
+description: 面向高中生的数学科普与高考考点讲解
+keywords: 高中数学,高考数学,数学科普,滴答课堂
 author: 滴答课堂
 language: zh-CN
 timezone: 'Asia/Shanghai'
@@ -97,7 +97,7 @@ ignore:
 # Extensions
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
-theme: butterfly
+theme: next
 
 # Deployment
 ## Docs: https://hexo.io/docs/one-command-deployment
