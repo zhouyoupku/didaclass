@@ -1,4 +1,7 @@
 index_img: /img/didaclass-math-hero.png
+math:
+  use: mathjax
+  per_page: true
 inject:
   bottom:
     - |
