@@ -5,6 +5,9 @@ scheme: Mist
 
 darkmode: false
 
+custom_file_path:
+  head: source/_data/head.njk
+
 menu:
   首页: / || fa fa-home
   归档: /archives/ || fa fa-archive
